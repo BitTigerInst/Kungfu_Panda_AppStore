@@ -6,7 +6,7 @@ Description
 
 Application store is very popular in both Android ecosystem and iOS ecosystem. It is the most important channel for billions of users to find and download applications. Huge downloads stand for diversified software demands. That means an App store should have as much software as possible. App crawler is one of methods to collect applications and expend App Store.
 
-Inspired by [Project App Store Crawler](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e), AppStore project aims to develop a crawler to crawl 1 million Android application information from [Huawei App Store](http://appstore.huawei.com). 
+Inspired by [Project App Store Crawler](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e), AppStore project aims to develop a crawler to crawl 1 million Android application information from [Huawei App Store](http://appstore.huawei.com). Application information is composed of name, developer, description, review and recommender.
 
 If time and ability allow, there are some additional functions:
 1. Find the most relevant Apps
